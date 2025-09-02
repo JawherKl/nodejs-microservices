@@ -22,9 +22,9 @@ Scalable and modular microservices architecture built with Node.js (NestJS & Exp
 
 ## ✨ Overview
 
-This project demonstrates a modern microservices architecture for an Order & Inventory System, suitable for real-world companies. Each service is designed with single responsibility, clear separation, and scalable technologies.
+This project demonstrates a modern microservices architecture for an Order & Inventory System, suitable for real-world companies. Each service is designed with a single responsibility, clear separation, and scalable technologies.
 
-- **Tech Focus:** TypeScript-first, RESTful APIs, event-driven messaging, containerized infrastructure
+- **Tech Focus:** TypeScript-first, RESTful APIs, event-driven messaging, containerised infrastructure
 - **Monorepo:** All services managed together for easy orchestration and development
 - **Best Practices:** Security, scalability, and maintainability in mind
 
