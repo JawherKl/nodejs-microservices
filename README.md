@@ -173,7 +173,7 @@ nodejs-microservices/
 
 ### 🌍 API Gateway
 
-* One entrypoint for frontend
+* One entry point for frontend
 * Reverse proxy, JWT verification
 * Routes `/products`, `/orders`, `/users` to services
 
@@ -205,7 +205,7 @@ Then run the entire system:
 sudo docker-compose up --build -d
 ```
 
-All services will be available on their respective internal IPs/ports or via the API Gateway.
+All services will be available on their respective internal IP addresses and ports, or via the API Gateway.
 
 ---
 
@@ -222,7 +222,7 @@ All services will be available on their respective internal IPs/ports or via the
 
 ## 🤝 Contributing
 
-Contributions, ideas, and feedback are welcome!
+We welcome contributions, ideas, and feedback.
 Feel free to open issues or submit pull requests.
 
 ---
