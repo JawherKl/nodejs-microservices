@@ -6,7 +6,7 @@
 ![Forks](https://img.shields.io/github/forks/JawherKl/nodejs-microservices)
 ![Stars](https://img.shields.io/github/stars/JawherKl/nodejs-microservices)
 
-A scalable and modular microservices architecture built with Node.js (NestJS & ExpressJS), TypeScript, PostgreSQL, MongoDB, and Docker. It leverages RabbitMQ for event-driven communication, ideal for modern e-commerce and real-time systems.
+Scalable and modular microservices architecture built with Node.js (NestJS & ExpressJS), PostgreSQL, MongoDB, and Docker. It leverages RabbitMQ for event-driven communication, ideal for modern e-commerce and real-time systems.
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -18,7 +18,7 @@ A scalable and modular microservices architecture built with Node.js (NestJS & E
 
 ---
 
-<img width="420" alt="nodejs-microservice" src="https://github.com/user-attachments/assets/8ae30270-d510-495d-b69e-5911c6142ec1" />
+<img width="520" alt="nodejs-microservice" src="https://github.com/user-attachments/assets/8ae30270-d510-495d-b69e-5911c6142ec1" />
 
 ## ✨ Overview
 
