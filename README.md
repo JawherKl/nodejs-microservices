@@ -242,7 +242,13 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 Made with ❤️ for scalable, real-world systems.
 
-## 🌟 Stargazers over time
+## 🌟 Star History
 
-[![Stargazers over time](https://starchart.cc/JawherKl/nodejs-microservices.svg?variant=adaptive)](https://starchart.cc/JawherKl/nodejs-microservices)
+<a href="https://www.star-history.com/?repos=jawherkl%2Fnodejs-microservices&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=jawherkl/nodejs-microservices&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=jawherkl/nodejs-microservices&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=jawherkl/nodejs-microservices&type=date&legend=top-left" />
+ </picture>
+</a>
 
